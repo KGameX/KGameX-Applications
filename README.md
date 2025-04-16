@@ -1,4 +1,4 @@
-![KGameX Applications](https://github.com/KGameX/KGameX-Applications/blob/main/KGameX%20Applications.png "icon")
+![KGameX Applications](https://github.com/KGameX/KGameX-Applications/blob/main/KGameX%20Applications.png)
 
 # KGΛMΞX Applications
 
